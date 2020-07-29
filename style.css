@@ -1,0 +1,24 @@
+
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #fcfcfc;
+    font-family: sans-serif;
+}
+body {
+    background-color: #010b13;
+    
+  }
+  .temp {
+color: #010b13;
+  }
+  
